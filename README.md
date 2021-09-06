@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me:  Email:xkccoding@gmail.com
-- My Blog : www.xiekecheng.top
+- My Blog : http://xiekecheng.top/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
