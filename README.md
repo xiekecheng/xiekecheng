@@ -15,5 +15,3 @@
 
 
 <br>
-
-📊 **This Week I Spent My Time On:**
